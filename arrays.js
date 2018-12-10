@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var chocolateBars = ["godiva", "hershey", "moonstruck"] ;
 console.log(chocolateBars);
 chocolateBars.push("bridgewater");
@@ -55,3 +56,7 @@ function spliceySplice(){
   return chocolateBars.splice(2);
 };
 spliceySplice();
+=======
+var chocolateBars = [godiva, hershey, moonstruck] ;
+
+>>>>>>> dcf6b7e4c4eff5572050467ad20c0ee44ae22a9c
